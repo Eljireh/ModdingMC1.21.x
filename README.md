@@ -1,6 +1,8 @@
 # ModdingMC1.21.x
 Modder en 1.21.x
 
+Tutoriel d'origine : https://docs.minecraftforge.net/en/latest/gettingstarted/
+
 Nécessite :
 - Minecraft
 - OpenJDK 21
