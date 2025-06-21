@@ -13,7 +13,7 @@ NB : L'explication suivante détaillera la démarche pour **VISUAL STUDIO CODE**
 ![image](https://github.com/user-attachments/assets/641a85b6-05dd-40b1-9af6-dd4053c2b05f)
 - Logiciel de gestion d'archives comme 7-Zip ou WinRAR.
 
-=== ÉTAPE 1 - Configuration de base ===
+=== ÉTAPE 1 - Configuration de l'environnement ===
 1. Créer un dossier dédié au mod
 2. Extraire le ZIP Forge MDK 1.21.x dans le dossier mod.
 Si un sous-dossier est créé à l'extraction, déplacer son contenu dans le dossier parent (le dossier dédié au mod).
@@ -45,3 +45,5 @@ Si cela n'apparaît toujours pas, entrer à la place " gradle run* " (sans guill
 
 *Petit point* : Il est recommandé de souvent appeler Gradle afin de réévaluer le projet après un changement concernant Gradle.
 Pour cela, il est utile d'entrer "gradlew" dans le terminal.
+
+=== ÉTAPE 2 -  ===
