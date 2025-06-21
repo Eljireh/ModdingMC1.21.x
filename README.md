@@ -29,3 +29,6 @@ Des configurations automatiques doivent avoir lieu, prenant un peu de temps.
 
 Si Java reste sur 0%, il faut possiblement confirmer sur la page Visual Studio Code présentée la présence d'OpenJDK, en validant dans la liste déroulante.
 Si cette liste n'apparaît pas, il faut donc attendre près de 5 minutes.
+
+6. Dans le terminal, cliquer sur la flèche à droite du signe "+" (1) et lancer une tâche (2).
+![image](https://github.com/user-attachments/assets/bfdca9c5-a203-4fec-9f7f-9eb20e5880a6)
