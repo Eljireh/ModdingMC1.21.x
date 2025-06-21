@@ -32,3 +32,7 @@ Si cette liste n'apparaît pas, il faut donc attendre près de 5 minutes.
 
 6. Dans le terminal, cliquer sur la flèche à droite du signe "+" (1) et lancer une tâche (2).
 ![image](https://github.com/user-attachments/assets/bfdca9c5-a203-4fec-9f7f-9eb20e5880a6)
+
+Entrer "genVSCodeRuns". Si cela n'apparaît pas, cliquer sur "Afficher toutes les tâches" et sélectionner "gradle:genVSCodeRuns".
+![image](https://github.com/user-attachments/assets/00e97f7e-1b5f-4bdc-a9cd-a7eaea0dc10d)
+Si cela n'apparaît toujours pas, entrer à la place " gradle run* " (sans guillemets) dans le terminal intitulé cmd.
