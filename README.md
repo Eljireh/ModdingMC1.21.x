@@ -37,3 +37,11 @@ Entrer "genVSCodeRuns". Si cela n'apparaît pas, cliquer sur "Afficher toutes le
 ![image](https://github.com/user-attachments/assets/00e97f7e-1b5f-4bdc-a9cd-a7eaea0dc10d)
 
 Si cela n'apparaît toujours pas, entrer à la place " gradle run* " (sans guillemets) dans le terminal intitulé cmd.
+
+À présent :
+- Le kit de modding Forge est installé dans un dossier dédié au mod.
+- L'environnement Java, incluant Gradle, est installé sur Visual Studio Code.
+- Les sources audio et les textures de Minecraft ont été obtenues via Gradle.
+
+*Petit point* : Il est recommandé de souvent appeler Gradle afin de réévaluer le projet après un changement concernant Gradle.
+Pour cela, il est utile d'entrer "gradlew" dans le terminal.
