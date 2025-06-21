@@ -11,8 +11,7 @@ Nécessite :
 NB : L'explication suivante détaillera la démarche pour **VISUAL STUDIO CODE**. 
 - ZIP Forge **MDK** 1.21.x (Ici 1.21.6-56.0.7)
 ![image](https://github.com/user-attachments/assets/641a85b6-05dd-40b1-9af6-dd4053c2b05f)
-
-- Logiciel de gestion d'archives comme 7Zip ou WinRAR.
+- Logiciel de gestion d'archives comme 7-Zip ou WinRAR.
 
 === ÉTAPE 1 - Configuration de base ===
 - Créer un dossier dédié au mod
@@ -25,4 +24,5 @@ L'installation peut prendre un peu de temps car 7 extensions à la fois sont en 
 Ce pack contient ce qu'il faudra afin de développer aisément dans un environnement Java sur Visual Studio Code et permettra également d'utiliser Gradle, moteur de production de Java **indispensable** pour créer et gérer les mods (à moins d'être suffisamment patient.e pour créer sa propre méthode).
 - Ouvrir le dossier du mod dans Visual Studio Code (Fichier -> Ouvrir Dossier -> Choisir le dossier)
 Des configurations automatiques doivent avoir lieu, prenant un peu de temps.
+
 ![image](https://github.com/user-attachments/assets/15b30238-a0aa-4d1b-9317-34edf6442d20)
