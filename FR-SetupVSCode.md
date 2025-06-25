@@ -1,15 +1,5 @@
 # Gradle pour Visual Studio Code
-Gradle est un outil de construction de projets pour Java.
-Il y eut des périodes durant lesquelles Gradle était plus optimisé et flexible que Maven.
-Maven est cependant considéré comme plus intuitif, tandis que Gradle est considéré comme bien plus approfondi.
-Bien que l'on préfère généralement Maven pour de la gestion simple, les projets en profondeur préféreront Gradle. 
-
-Visual Studio Code est un éditeur de code dont la compatibilité avec Gradle est la deuxième meilleure ; la meilleure revient, ex æquo, à Eclipse et à IntelliJ.
-
-La mise en place nécessite :
-- OpenJDK 21
-- Java (JVM) 64 bits
-- Visual Studio Code
+Gradle est un outil de construction de projets pour Java.<br/>Il y eut des périodes durant lesquelles Gradle était plus optimisé et flexible que Maven.<br/>Maven est cependant considéré comme plus intuitif, tandis que Gradle est considéré comme bien plus approfondi.<br/>Bien que l'on préfère généralement Maven pour de la gestion simple, les projets en profondeur préféreront Gradle.<br/><br/>Visual Studio Code est un éditeur de code dont la compatibilité avec Gradle est la deuxième meilleure ; la meilleure revient, ex æquo, à Eclipse et à IntelliJ.<br/>La mise en place nécessite :<br/>- OpenJDK 21<br/>- Java (JVM) 64 bits<br/>- Visual Studio Code
 
 1. Ouvrir Visual Studio Code.
 2. Depuis la fenêtre "Extensions" (1), chercher et cliquer sur l'extension "Extension Pack for Java" (2), puis cliquer sur "Installer" ou "Install" (3).
