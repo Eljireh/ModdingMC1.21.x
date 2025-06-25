@@ -1,3 +1,1 @@
-**=== ENGLISH ===**<br/><br/>Here is how to add Gradle to Visual Studio Code.<br/>Find the explanation in "EN-SetupVSCode.md" file.
-
-**=== FRANÇAIS ===**<br/><br/>Voici comment ajouter Gradle à Visual Studio Code.<br/>Vous trouverez les explications dans le fichier "FR-SetupVSCode.md".
+**=== ENGLISH ===**<br/>Here is how to add Gradle to Visual Studio Code.<br/>Find the explanation in "EN-SetupVSCode.md" file.<br/><br/><br/>**=== FRANÇAIS ===**<br/>Voici comment ajouter Gradle à Visual Studio Code.<br/>Vous trouverez les explications dans le fichier "FR-SetupVSCode.md".
